@@ -2,7 +2,9 @@
 
 ## 尝试Android原生和flutter混编
 
-- flutter create -t module my_flutter
+```
+flutter create -t module my_flutter
+```
 
 ```
 setBinding(new Binding([gradle: this]))
