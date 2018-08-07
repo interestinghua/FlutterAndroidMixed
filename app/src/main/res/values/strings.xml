@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FlutterAndroidMixed</string>
+    <string name="title_activity_one">OneActivity</string>
+    <string name="title_activity_two">TwoActivity</string>
+    <string name="title_activity_flutter_plugin_jump_to">FlutterPluginJumpToAct</string>
+    <string name="title_activity_flutter_plugin_counter">FlutterPluginCounter</string>
 </resources>

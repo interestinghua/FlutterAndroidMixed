@@ -16,6 +16,22 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".OneActivity"
+            android:label="@string/title_activity_one"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TwoActivity"
+            android:label="@string/title_activity_two"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".FlutterPluginJumpToAct"
+            android:label="@string/title_activity_flutter_plugin_jump_to"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".FlutterPluginCounter"
+            android:label="@string/title_activity_flutter_plugin_counter"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
